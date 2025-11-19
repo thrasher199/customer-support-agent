@@ -1,0 +1,29 @@
+Java
+=====
+Langchain4j -- https://docs.langchain4j.dev/intro/
+SpringAI -- https://spring.io/projects/spring-ai
+
+Python
+========
+Langchain -- https://www.langchain.com/
+llama-index -- https://developers.llamaindex.ai/python/framework/
+
+Observerlity
+===========
+Arize Phoenix - https://arize.com/docs/phoenix (test using llama-index for RAG)
+
+
+
+Other
+=====
+MindsDB - have open source and paid
+Snowflake
+
+
+Technique
+============
+tool(function calling) - need to check which model support this (current support GPT(OpenAI), Claude Sonnet)
+MCP 
+
+
+https://timefold.ai/ - auto assigment
